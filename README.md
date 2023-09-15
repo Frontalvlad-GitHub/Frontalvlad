@@ -9,7 +9,7 @@ GTM+7 time. (MSK+4)
 **Discord:** https://discordapp.com/users/452834905911590921/ \
 **Discord Server:** https://discord.gg/c8YwyFsFDH (Русскоязычный сервер) \
 <div align=left>
-  <img src="https://mc-heads.net/head/e43cf333-8450-4827-b086-01bbca8588c6" width="200" height="270">
+  <img src="https://mc-heads.net/head/e43cf333-8450-4827-b086-01bbca8588c6" width="270" height="270">
   <img src="https://mc-heads.net/body/e43cf333-8450-4827-b086-01bbca8588c6" width="128" height="270">
 </div>
 <p align=left>

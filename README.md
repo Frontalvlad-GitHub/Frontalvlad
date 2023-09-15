@@ -15,7 +15,7 @@ GTM+7 time. (MSK+4)
 
 <div align=left>
   <img src="https://mc-heads.net/head/e43cf333-8450-4827-b086-01bbca8588c6" width="202" height="202">
-  <img src="https://mc-heads.net/body/e43cf333-8450-4827-b086-01bbca8588c6" width="115" height="230">
+  <img src="https://mc-heads.net/body/e43cf333-8450-4827-b086-01bbca8588c6" width="101" height="202">
 </div>
 <p align=left>
   <a href="https://discord.com/users/452834905911590921"><img src="https://lanyard-profile-readme.vercel.app/api/452834905911590921" width=45%></a>
